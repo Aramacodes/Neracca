@@ -1,0 +1,1 @@
+export const CONTACT_EMAIL = "halo@neracca.id"; // ganti dengan email resmi Neracca
